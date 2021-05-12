@@ -4,11 +4,11 @@
 -  I’m looking to collaborate on projects
 -  How to reach me:
      -  LinkedIn: 
-     -  twitter: 
-     -  email:
-     -  twitch:
-     -  imgur: 
-     -  reddit:
+     -  email: 
+     -  twitter: @Millwr1ght
+     -  twitch: @Millwr1ght
+     -  imgur: @Millwr1ght
+     -  reddit: @Millwr1ght
      
 <!---
 Millwr1ght/Millwr1ght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
