@@ -6,6 +6,7 @@
      -  LinkedIn: 
      -  twitter: 
      -  email:
+     -  twitch:
      -  imgur: 
      -  reddit:
      
