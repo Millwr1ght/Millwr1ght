@@ -8,7 +8,7 @@
      -  twitter: @Millwr1ght
      -  twitch: @Millwr1ght
      -  imgur: @Millwr1ght
-     -  reddit: @Millwr1ght
+     -  reddit: @Millwr2ght
      
 <!---
 Millwr1ght/Millwr1ght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
