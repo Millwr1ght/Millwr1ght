@@ -3,8 +3,7 @@
 -  I’m currently learning advanced CSS, intermediate level python, and Symphony of the Boreal Wind on the piano
 -  I’m looking to collaborate on projects
 -  How to reach me:
-     -  LinkedIn: 
-     -  email: 
+     -  email: millwr1ght.tv@gmail.com
      -  twitter: @Millwr1ght
      -  twitch: @Millwr1ght
      -  imgur: @Millwr1ght
