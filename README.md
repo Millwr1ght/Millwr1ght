@@ -2,12 +2,6 @@
 -  I’m interested in Web design and development, IT infrastructure, video gaming, cooking, music and robotics
 -  I’m currently learning advanced CSS, intermediate level python, and Symphony of the Boreal Wind on the piano
 -  I’m looking to collaborate on projects
--  How to reach me:
-     -  email: millwr1ght.tv@gmail.com
-     -  twitter: @Millwr1ght
-     -  twitch: @Millwr1ght
-     -  imgur: @Millwr1ght
-     -  reddit: @Millwr2ght
      
 <!---
 Millwr1ght/Millwr1ght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
