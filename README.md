@@ -1,4 +1,4 @@
--  Hi, I’m @Millwr1ght
+-  Hi, I’m @Millwr1ght (pretty much everywhere)
 -  I’m interested in Web design and development, IT infrastructure, video gaming, cooking, music and robotics
 -  I’m currently learning advanced CSS, intermediate level python, and basic Java  
 <!---
